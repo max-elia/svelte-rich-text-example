@@ -68,6 +68,8 @@ Html:<br />
     {$html}
 </pre>
 
+<p>The code for this page (using the library) can be found at: <a href="https://github.com/max-elia/svelte-rich-text-example">github.com/max-elia/svelte-rich-text-example</a></p>
+
 <style>
     :global(body) {
         font-family: sans-serif;
