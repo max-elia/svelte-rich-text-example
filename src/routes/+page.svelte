@@ -37,10 +37,16 @@
         {
             type: 'code',
             text: 'However, it still needs a lot of love to make it fully functional.',
+            format: [
+                {
+                    start: 33,
+                    end: 37,
+                    a: "https://github.com/hintergrundjs/svelte-rich-text"
+                }
+            ]
         },
     ];
 </script>
-
 <a class="github" href="https://github.com/hintergrundjs/svelte-rich-text">
     <svg
         stroke="currentColor"

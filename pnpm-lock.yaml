@@ -10,12 +10,12 @@ specifiers:
   prettier-plugin-svelte: ^2.8.1
   svelte: ^3.54.0
   svelte-check: ^3.0.1
-  svelte-rich-text: ^0.0.8
+  svelte-rich-text: ^0.0.9
   typescript: ^5.0.0
   vite: ^4.2.0
 
 dependencies:
-  svelte-rich-text: 0.0.8_svelte@3.58.0
+  svelte-rich-text: 0.0.9_svelte@3.58.0
 
 devDependencies:
   '@sveltejs/adapter-static': 2.0.2_@sveltejs+kit@1.15.7
@@ -1396,8 +1396,8 @@ packages:
       typescript: 5.0.4
     dev: true
 
-  /svelte-rich-text/0.0.8_svelte@3.58.0:
-    resolution: {integrity: sha512-CoH8xtFqhg7pVu3UeuTapA6u5CB6sDKTbaJNQ9yx5/KtDjEkjErEJbcCwMKSyK9MSV3jEJ0rGh2OutPC29xLLg==}
+  /svelte-rich-text/0.0.9_svelte@3.58.0:
+    resolution: {integrity: sha512-AYZYOFDeB8isE/2doIpRmxSX0isuBimVPbuGe0lNDAsWhcl58gwQbrisFouSag5X1Dmal2cdxQsRedROtIC4Nw==}
     peerDependencies:
       svelte: ^3.54.0
     dependencies:
