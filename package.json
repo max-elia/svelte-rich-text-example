@@ -26,6 +26,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"svelte-rich-text": "^0.0.6"
+		"svelte-rich-text": "^0.0.7"
 	}
 }
